@@ -1,10 +1,16 @@
 _repo: Serge-Prokofieff-and-his-Orchestral-Music_50226
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50226-h/images/cover.jpg
 creator:
   author:
     agent_name: Biancolli, Louis
     gutenberg_agent_id: '45762'
     url: http://www.gutenberg.org/2009/agents/45762
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50226#Serge-Prokofieff-and-his-Orchestral-Music
 gutenberg_issued: '2015-10-15'
 gutenberg_type: Text
 identifiers:
